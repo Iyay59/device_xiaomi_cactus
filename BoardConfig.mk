@@ -79,7 +79,7 @@ TW_SCREEN_BLANK_ON_BOOT := true
 #SHRP
 SHRP_DEVICE_CODE := cactus
 SHRP_PATH := device/xiaomi/cactus
-SHRP_MAINTAINER := MegaFon929
+SHRP_MAINTAINER := Iyayy59
 SHRP_DEVICE_TYPE := A/B
 SHRP_REC := /dev/block/platform/bootdevice/by-name/recovery
 SHRP_FLASH := 0
